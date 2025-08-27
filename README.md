@@ -12,9 +12,9 @@ Aspiring Software Developer, Curious About building real world solutions.
 
 ---
 
-- 🎓 B.Tech. Computer Science @ **Vellore Institute of Technology, Chennai** (CGPA: 8.25/10)  
+- 🎓 B.Tech. Computer Science @ **Vellore Institute of Technology, Chennai** 
 - 💻 Passionate about **Full-Stack Development, Cloud (AWS), and Scalable Systems**  
-- ⚡ Loves building **end-to-end apps** with serverless, microservices, and React dashboards  
+- ⚡ Love building **end-to-end apps** with serverless, microservices, and React dashboards  
 - 🏆 Sparkplug finalist + **CodeHacks 2024 Winner**  
 - 📄 [My Resume](https://drive.google.com/file/d/1vuHB_j9EFFgXMlDtmxEj-LuqvFpGlwqa/view?usp=sharing)
 - [Check my Projects out:](https://github.com/gottostartsomewhere/)
