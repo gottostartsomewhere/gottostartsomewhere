@@ -10,16 +10,11 @@
 
 ---
 
-<img align="right" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottostartsomewhere&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
 ### 👨‍💻 About Me
 
-- 🎓 Final Year **B.Tech CS** @ VIT Chennai &nbsp;*(CGPA: 8.31)*
 -  **SDE Intern @ Prospire Network** — Built production ready unlisted equities screener & FinTech data pipelines
 - Would Love to collaborate and work on Fintech SaaS Projects.
 - 📄 **[Resume](https://drive.google.com/file/d/1QPPgrZtRISalWtDjoXbmFaNKXgLFAdC5/view)**
-
-<br clear="right"/>
 
 ---
 
@@ -67,26 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gottostartsomewhere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gottostartsomewhere&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-### 📈 Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gottostartsomewhere&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
 ### 🐍 Contributions
 
 <div align="center">
@@ -99,18 +74,12 @@
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gottostartsomewhere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <div align="center">
 
+[![ledger-api](https://github-readme-stats.vercel.app/api/pin/?username=gottostartsomewhere&repo=ledger-api&theme=tokyonight&hide_border=true)](https://github.com/gottostartsomewhere/ledger-api)
+&nbsp;
 [![CVA-SACS](https://github-readme-stats.vercel.app/api/pin/?username=gottostartsomewhere&repo=Cva_Sacs&theme=tokyonight&hide_border=true)](https://github.com/gottostartsomewhere/Cva_Sacs)
 &nbsp;
 [![crypto-hub](https://github-readme-stats.vercel.app/api/pin/?username=gottostartsomewhere&repo=crypto-hub&theme=tokyonight&hide_border=true)](https://github.com/gottostartsomewhere/crypto-hub)
