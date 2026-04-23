@@ -15,10 +15,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final Year **B.Tech CS** @ VIT Chennai &nbsp;*(CGPA: 8.31)*
-- 💼 **SDE Intern @ Prospire Network** — production unlisted equities screener & FinTech data pipelines
-- 📊 Built **CVA-SACS** — ML equity stress-testing platform with 79% directional accuracy
-- 🏗️ Own the full stack: schema → ingestion → Next.js frontend → RBAC → deployment
-- 🎯 Targeting **Full-Time SDE / Full-Stack / FinTech** roles from **July 2026**
+-  **SDE Intern @ Prospire Network** — Built production ready unlisted equities screener & FinTech data pipelines
+- Would Love to collaborate and work on Fintech SaaS Projects.
 - 📄 **[Resume](https://drive.google.com/file/d/1QPPgrZtRISalWtDjoXbmFaNKXgLFAdC5/view)**
 
 <br clear="right"/>
