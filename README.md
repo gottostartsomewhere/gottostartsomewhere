@@ -10,11 +10,10 @@
 
 ---
 
-### 👨‍💻 About Me
+### Hey, this is John Kevin
 
 -  **SDE Intern @ Prospire Network** — Built production ready unlisted equities screener & FinTech data pipelines
-- Would Love to collaborate and work on Fintech SaaS Projects.
-- 📄 **[Resume](https://drive.google.com/file/d/1QPPgrZtRISalWtDjoXbmFaNKXgLFAdC5/view)**
+- Would Love to collaborate and work on Fintech SaaS and full stack Projects.
 
 ---
 
