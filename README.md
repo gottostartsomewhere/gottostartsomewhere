@@ -1,91 +1,67 @@
-<div align="center">
+<h1 align="center">John Kevin</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=180&section=header&text=John%20Kevin&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20FinTech%20%C2%B7%20SDE&descSize=18&descColor=ffffffbb&descAlignY=58&animation=fadeIn" width="100%"/>
+<p align="center">
+  Backend / Full-Stack Engineer · FinTech<br/>
+  <sub>building systems where money stays correct under concurrency</sub>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=SDE+Intern+%40+Prospire+Network+%F0%9F%9A%80;Building+Production+FinTech+Systems;Next.js+%7C+PostgreSQL+%7C+AWS+%7C+FastAPI;Open+to+Full-Time+SDE+Roles+%E2%80%94+July+2026)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=gottostartsomewhere&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/gottostartsomewhere)
-
-</div>
-
----
-
-### Hey, this is John Kevin
-
--  **SDE Intern @ Prospire Network** — Built production ready unlisted equities screener & FinTech data pipelines
-- Would Love to collaborate and work on Fintech SaaS and full stack Projects.
+<p align="center">
+  <a href="https://linkedin.com/in/johnkevindev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:johnkevin0742@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### About
 
-<div align="center">
+Final-year CS at VIT Chennai, currently SDE intern (founding team) at **Prospire Network**, building the data and payment layers behind **WiseFolio** — a SEBI-regulated unlisted-equities platform.
 
-**Languages**
+I work where money has to stay correct under concurrency: ledgers, idempotent APIs, and ingestion that can't silently drop a row. Open to remote SDE roles (backend / full-stack / data), 2026.
 
+---
+
+### Tech Stack
+
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend**
+**Backend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Systems**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Databases**
-
+**Data & Infra**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-<div align="center">
+**[ledger-api](https://github.com/gottostartsomewhere/ledger-api)** — double-entry payment ledger · `FastAPI` `Postgres` `Redis`  
+Balanced debit/credit rows inside one row-locked transaction so balances can't drift. Idempotent writes (Redis + Postgres fingerprint) make retries safe from double-charges, and settlement events ship through a transactional outbox with HMAC-signed webhooks — at-least-once delivery that survives a DB rollback.
 
-[![ledger-api](https://github-readme-stats.vercel.app/api/pin/?username=gottostartsomewhere&repo=ledger-api&theme=tokyonight&hide_border=true)](https://github.com/gottostartsomewhere/ledger-api)
-&nbsp;
-[![CVA-SACS](https://github-readme-stats.vercel.app/api/pin/?username=gottostartsomewhere&repo=Cva_Sacs&theme=tokyonight&hide_border=true)](https://github.com/gottostartsomewhere/Cva_Sacs)
-&nbsp;
-[![crypto-hub](https://github-readme-stats.vercel.app/api/pin/?username=gottostartsomewhere&repo=crypto-hub&theme=tokyonight&hide_border=true)](https://github.com/gottostartsomewhere/crypto-hub)
-
-</div>
+**[CVA-SACS](https://cvasacs.streamlit.app)** — equity stress-testing engine · [repo](https://github.com/gottostartsomewhere/Cva_Sacs) · `Python` `XGBoost` `FinBERT`  
+Stacks gradient-boosted models with CVaR / Monte Carlo / conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0–100 risk score. Walk-forward backtested, SHAP for explainability — built to be honest about uncertainty, not just print a number.
 
 ---
 
-### 🔗 Connect
+### GitHub
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-kevin-b8972a278)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/John_Kevin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnkevin0742@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QPPgrZtRISalWtDjoXbmFaNKXgLFAdC5/view)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=110&section=footer" width="100%"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gottostartsomewhere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottostartsomewhere&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
