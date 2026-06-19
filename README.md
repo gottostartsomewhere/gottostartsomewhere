@@ -2,7 +2,7 @@
 
 <p align="center">
   Backend cum Full-Stack Engineer<br/>
-  <sub>Building Software Solutions , Open to Product Ideas and Remote Tech Roles</sub>
+  <sub>Building Software Solutions , Open to Product Ideas and Remote Tech Roles.</sub>
 </p>
 
 <p align="center">
