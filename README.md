@@ -17,7 +17,7 @@
 
 Final-year CS at VIT Chennai, currently A part of a Founding Team in an Early Stage Fintech Startup, building the data and payment layers behind **WiseFolio** — a SEBI-regulated unlisted-equities platform.
 
-Striving to learn new technologies and workflows, Happy to contibute, can be adaptive to various domain. Currently into open source as well.
+Striving to learn new technologies and workflows, Happy to contibute, can be adaptive to various domains. Currently into open source.
 
 ---
 
@@ -48,7 +48,7 @@ Striving to learn new technologies and workflows, Happy to contibute, can be ada
 
 ---
 
-### Featured Projects
+### Cool stuff I've worked on
 
 **[ledger-api](https://github.com/gottostartsomewhere/ledger-api)** — double-entry payment ledger · `FastAPI` `Postgres` `Redis`  
 
