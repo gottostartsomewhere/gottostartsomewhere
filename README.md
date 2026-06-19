@@ -15,9 +15,9 @@
 
 ### About
 
-Final-year CS at VIT Chennai, currently SDE intern (founding team) at **Prospire Network**, building the data and payment layers behind **WiseFolio** — a SEBI-regulated unlisted-equities platform.
+Final-year CS at VIT Chennai, currently A part of a Founding Team in an Early Stage Fintech Startup, building the data and payment layers behind **WiseFolio** — a SEBI-regulated unlisted-equities platform.
 
-I work where money has to stay correct under concurrency: ledgers, idempotent APIs, and ingestion that can't silently drop a row. Open to remote SDE roles (backend / full-stack / data), 2026.
+Striving to learn new technologies and workflows, Happy to contibute, can be adaptive to various domain. Currently into open source as well.
 
 ---
 
@@ -44,7 +44,6 @@ I work where money has to stay correct under concurrency: ledgers, idempotent AP
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
@@ -52,9 +51,11 @@ I work where money has to stay correct under concurrency: ledgers, idempotent AP
 ### Featured Projects
 
 **[ledger-api](https://github.com/gottostartsomewhere/ledger-api)** — double-entry payment ledger · `FastAPI` `Postgres` `Redis`  
+
 Balanced debit/credit rows inside one row-locked transaction so balances can't drift. Idempotent writes (Redis + Postgres fingerprint) make retries safe from double-charges, and settlement events ship through a transactional outbox with HMAC-signed webhooks — at-least-once delivery that survives a DB rollback.
 
 **[CVA-SACS](https://cvasacs.streamlit.app)** — equity stress-testing engine · [repo](https://github.com/gottostartsomewhere/Cva_Sacs) · `Python` `XGBoost` `FinBERT`  
+
 Stacks gradient-boosted models with CVaR / Monte Carlo / conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0–100 risk score. Walk-forward backtested, SHAP for explainability — built to be honest about uncertainty, not just print a number.
 
 ---
