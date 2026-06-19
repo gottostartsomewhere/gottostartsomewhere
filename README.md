@@ -56,7 +56,7 @@ Balanced debit/credit rows inside one row-locked transaction so balances can't d
 
 **[CVA-SACS](https://cvasacs.streamlit.app)** — equity stress-testing engine · [repo](https://github.com/gottostartsomewhere/Cva_Sacs) · `Python` `XGBoost` `FinBERT`  
 
-Stacks gradient-boosted models with CVaR / Monte Carlo / conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0–100 risk score. Walk-forward backtested, SHAP for explainability — built to be honest about uncertainty, not just print a number.
+Stacks gradient-boosted models with CVaR / Monte Carlo / conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0–100 risk score. Walk-forward backtested, SHAP for explainability as its built to be honest about uncertainty, not just print a number.
 
 ---
 
