@@ -15,7 +15,7 @@
 
 ### About
 
-Final-year CS at VIT Chennai, currently A part of a Founding Team in an Early Stage Fintech Startup, building the data and payment layers behind **WiseFolio** — a SEBI-regulated unlisted-equities platform.
+Final-year CS at VIT Chennai, currently A part of a Founding Team in an Early Stage Fintech Startup, building the data and payment layers behind **WiseFolio** — an equities management and investor platform.
 
 Striving to learn new technologies and workflows, Happy to contibute, can be adaptive to various domains. Currently into open source.
 
