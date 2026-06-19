@@ -1,8 +1,8 @@
 <h1 align="center">John Kevin</h1>
 
 <p align="center">
-  Backend / Full-Stack Engineer · FinTech<br/>
-  <sub>building systems where money stays correct under concurrency</sub>
+  Backend cum Full-Stack Engineer<br/>
+  <sub>Building Software Solutions , Open to Product Ideas and Remote Tech Roles</sub>
 </p>
 
 <p align="center">
