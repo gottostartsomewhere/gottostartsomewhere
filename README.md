@@ -2,7 +2,7 @@
 
 <p align="center">
   Backend cum Full-Stack Engineer<br/>
-  <sub>Building Software Solutions , Open to Product Ideas and Remote Tech Roles.</sub>
+  <sub>Building Software Solutions, Open to Product Ideas and Remote Tech Roles.</sub>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ### About
 
-Final-year CS at VIT Chennai, currently a part of a Founding Team in an Early Stage Fintech Startup, building the data and payment layers behind **WiseFolio** , an equities management and investor platform.
+Final-year CS at VIT Chennai, currently a part of a Founding Team in an Early Stage Fintech Startup, building the data and payment layers behind **WiseFolio**, an equities management and investor platform.
 
-Striving to learn new technologies and workflows, Happy to contibute, can be adaptive to various domains. Currently into open source.
+Striving to learn new technologies and workflows, happy to contribute, can be adaptive to various domains. Currently into open source.
 
 ---
 
@@ -56,7 +56,7 @@ Balanced debit/credit rows inside one row-locked transaction so balances can't d
 
 **[CVA-SACS](https://cvasacs.streamlit.app)** — equity stress-testing engine · [repo](https://github.com/gottostartsomewhere/Cva_Sacs) · `Python` `XGBoost` `FinBERT`  
 
-Stacks gradient-boosted models with CVaR / Monte Carlo / conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0–100 risk score. Walk-forward backtested, SHAP for explainability as its built to be honest about uncertainty, not just print a number.
+Stacks gradient-boosted models with CVaR / Monte Carlo / conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0–100 risk score. Walk-forward backtested, with SHAP for explainability — it's built to be honest about uncertainty, not just print a number.
 
 ---
 
