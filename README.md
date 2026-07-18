@@ -1,63 +1,47 @@
+<p align="center">
+  <img src="./assets/roulette.svg" width="190" alt="Spinning roulette wheel">
+</p>
+
 <h1 align="center">John Kevin</h1>
 
 <p align="center">
-  Backend cum Full-Stack Engineer<br/>
-  <sub>Building Software Solutions, Open to Product Ideas and Remote Tech Roles.</sub>
+  Backend &amp; fintech engineer · Chennai<br/>
+  <sub>Payments, ledgers, and market-data tooling. Currently all in on open source.</sub>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/johnkevindev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:johnkevin0742@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/johnkevindev">LinkedIn</a> ·
+  <a href="mailto:johnkevin0742@gmail.com">Email</a> ·
+  <a href="https://github.com/gottostartsomewhere?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-### About
+Final-year CS at VIT Chennai and on the founding team at **WiseFolio**, an early-stage fintech, building the data and payment layers behind an equities investing platform. Lately I spend my free chips on open source in the Python finance ecosystem.
 
-Final-year CS at VIT Chennai, currently a part of a Founding Team in an Early Stage Fintech Startup, building the data and payment layers behind **WiseFolio**, an equities management and investor platform.
+### ♦&nbsp; Bets that paid off
 
-Striving to learn new technologies and workflows, happy to contribute, can be adaptive to various domains. Currently into open source.
+Contributions to the finance and data libraries I actually use.
 
----
+- **[OpenBB](https://github.com/OpenBB-finance/OpenBB/pull/7591)** &nbsp;`70k ★`&nbsp; building an NSE market-data extension (`obb.nse.*`), alongside the core maintainers
+- **[edgartools](https://github.com/dgunning/edgartools/pull/899)** &nbsp; merged S-3 filing section extraction into the SEC EDGAR library
+- **[yfinance](https://github.com/ranaroussi/yfinance/pull/2780)** &nbsp;`24k ★`&nbsp; merged fixes to interval handling
+- **[supabase-py](https://github.com/supabase/supabase-py/pull/1530)** &nbsp; merged a type-coercion fix in the PostgREST array filters
 
-### Tech Stack
+### ♠&nbsp; On the table
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**[ledger-api](https://github.com/gottostartsomewhere/ledger-api)** &nbsp;·&nbsp; double-entry payment ledger &nbsp;·&nbsp; `FastAPI` `Postgres` `Redis`
 
-**Backend**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+Balanced debit/credit rows inside one row-locked transaction so balances can't drift. Idempotent writes (Redis plus a Postgres fingerprint) keep retries safe from double-charges, and settlement events ship through an HMAC-signed transactional outbox that survives a DB rollback.
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**[CVA-SACS](https://github.com/gottostartsomewhere/Cva_Sacs)** &nbsp;·&nbsp; equity stress-testing engine &nbsp;·&nbsp; [live demo](https://cvasacs.streamlit.app) &nbsp;·&nbsp; `Python` `XGBoost` `FinBERT`
 
-**Data & Infra**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+Stacks gradient-boosted models with CVaR, Monte Carlo, and conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0 to 100 risk score. Walk-forward backtested, with SHAP for explainability. Built to be honest about uncertainty, not just print a number.
+
+### ♣&nbsp; Chips on hand
+
+`Python` `TypeScript` `FastAPI` `Node` `PostgreSQL` `Redis` `SQLAlchemy` `Docker` `AWS` `React` `Next.js`
 
 ---
 
-### Cool stuff I've worked on
-
-**[ledger-api](https://github.com/gottostartsomewhere/ledger-api)** — double-entry payment ledger · `FastAPI` `Postgres` `Redis`  
-
-Balanced debit/credit rows inside one row-locked transaction so balances can't drift. Idempotent writes (Redis + Postgres fingerprint) make retries safe from double-charges, and settlement events ship through a transactional outbox with HMAC-signed webhooks — at-least-once delivery that survives a DB rollback.
-
-**[CVA-SACS](https://cvasacs.streamlit.app)** — equity stress-testing engine · [repo](https://github.com/gottostartsomewhere/Cva_Sacs) · `Python` `XGBoost` `FinBERT`  
-
-Stacks gradient-boosted models with CVaR / Monte Carlo / conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0–100 risk score. Walk-forward backtested, with SHAP for explainability — it's built to be honest about uncertainty, not just print a number.
-
----
-
-
+<p align="center"><sub>house rules: balances reconcile, retries are idempotent, and the webhook always fires.</sub></p>
