@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="John Kevin, backend and fintech engineer in Chennai">
+  <img src="./assets/roulette.svg" width="180" alt="Spinning roulette wheel">
+</p>
+
+<h1 align="center">John Kevin</h1>
+
+<p align="center">
+  Backend &amp; fintech engineer · Chennai<br/>
+  <sub>Payments, ledgers, and market-data tooling. Currently all in on open source.</sub>
 </p>
 
 <p align="center">
@@ -8,48 +15,53 @@
   <a href="https://github.com/gottostartsomewhere?tab=repositories">Repositories</a>
 </p>
 
-Final-year CS at VIT Chennai and on the founding team at **WiseFolio**, an early-stage fintech, building the data and payment layers behind an equities investing platform. Most of what is left of my week goes to open source in the Python finance ecosystem.
-
-<img src="./assets/hdr-filled.svg" width="100%" alt="Filled">
-
-<img src="./assets/blotter.svg" width="100%" alt="OpenBB, NSE market-data extension, open. edgartools, S-3 filing section extraction, merged. yfinance, interval handling fixes, merged. supabase-py, PostgREST array filter type coercion, merged.">
-
 <p align="center">
-  <sub>
-    <a href="https://github.com/OpenBB-finance/OpenBB/pull/7591">OpenBB #7591</a> ·
-    <a href="https://github.com/dgunning/edgartools/pull/899">edgartools #899</a> ·
-    <a href="https://github.com/ranaroussi/yfinance/pull/2780">yfinance #2780</a> ·
-    <a href="https://github.com/supabase/supabase-py/pull/1530">supabase-py #1530</a>
-  </sub>
+  <img src="./assets/chips.svg" width="230" alt="Poker chips">
 </p>
 
-<img src="./assets/hdr-positions.svg" width="100%" alt="Open positions">
+Final-year CS at VIT Chennai and on the founding team at **WiseFolio**, an early-stage fintech, building the data and payment layers behind an equities investing platform. Lately I spend my free chips on open source in the Python finance ecosystem.
 
-<a href="https://github.com/gottostartsomewhere/ledger-api">
-  <img src="./assets/card-ledger.svg" width="100%" alt="ledger-api, a double-entry payment ledger built with FastAPI, Postgres and Redis">
-</a>
+### ♦&nbsp; Bets that paid off
+
+Contributions to the finance and data libraries I actually use.
+
+- **[OpenBB](https://github.com/OpenBB-finance/OpenBB/pull/7591)** &nbsp;`70k ★`&nbsp; building an NSE market-data extension (`obb.nse.*`), alongside the core maintainers
+- **[edgartools](https://github.com/dgunning/edgartools/pull/899)** &nbsp; merged S-3 filing section extraction into the SEC EDGAR library
+- **[yfinance](https://github.com/ranaroussi/yfinance/pull/2780)** &nbsp;`24k ★`&nbsp; merged fixes to interval handling
+- **[supabase-py](https://github.com/supabase/supabase-py/pull/1530)** &nbsp; merged a type-coercion fix in the PostgREST array filters
+
+### ♠&nbsp; On the table
+
+**[ledger-api](https://github.com/gottostartsomewhere/ledger-api)** &nbsp;·&nbsp; double-entry payment ledger &nbsp;·&nbsp; `FastAPI` `Postgres` `Redis`
 
 Balanced debit/credit rows inside one row-locked transaction so balances can't drift. Idempotent writes (Redis plus a Postgres fingerprint) keep retries safe from double-charges, and settlement events ship through an HMAC-signed transactional outbox that survives a DB rollback.
 
-<a href="https://github.com/gottostartsomewhere/Cva_Sacs">
-  <img src="./assets/card-cvasacs.svg" width="100%" alt="CVA-SACS, an equity stress-testing engine built with Python, XGBoost and FinBERT">
-</a>
+**[CVA-SACS](https://github.com/gottostartsomewhere/Cva_Sacs)** &nbsp;·&nbsp; equity stress-testing engine &nbsp;·&nbsp; [live demo](https://cvasacs.streamlit.app) &nbsp;·&nbsp; `Python` `XGBoost` `FinBERT`
 
-Stacks gradient-boosted models with CVaR, Monte Carlo, and conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0 to 100 risk score. Walk-forward backtested, with SHAP for explainability. Built to be honest about uncertainty, not just print a number. &nbsp;[Live demo](https://cvasacs.streamlit.app)
+Stacks gradient-boosted models with CVaR, Monte Carlo, and conformal intervals over ~130 features plus a FinBERT sentiment index into a single 0 to 100 risk score. Walk-forward backtested, with SHAP for explainability. Built to be honest about uncertainty, not just print a number.
 
-<img src="./assets/hdr-instruments.svg" width="100%" alt="Instruments">
-
-<img src="./assets/stack.svg" width="100%" alt="Python, TypeScript, C++, FastAPI, Node, PostgreSQL, Redis, MongoDB, SQLAlchemy, Docker, AWS, GitHub Actions, React, Next.js">
-
-<img src="./assets/hdr-tape.svg" width="100%" alt="The tape">
+### ♣&nbsp; Chips on hand
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gottostartsomewhere&show_icons=true&include_all_commits=true&count_private=true&bg_color=080c12&title_color=34e39b&icon_color=38d6ff&text_color=c9d3dd&border_color=1c3a2c" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottostartsomewhere&layout=compact&langs_count=8&bg_color=080c12&title_color=34e39b&text_color=c9d3dd&border_color=1c3a2c" alt="Top languages">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,fastapi,nodejs,postgres,redis,mongodb,docker,aws,githubactions,react,nextjs,tailwind&perline=8" alt="Python, TypeScript, JavaScript, C++, FastAPI, Node, PostgreSQL, Redis, MongoDB, Docker, AWS, GitHub Actions, React, Next.js, Tailwind">
+</p>
+
+### ♥&nbsp; Table stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gottostartsomewhere&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=c8a24a&icon_color=c8a24a&text_color=c9d1d9&ring_color=c8a24a" alt="GitHub stats">
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottostartsomewhere&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=c8a24a&text_color=c9d1d9" alt="Top languages">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gottostartsomewhere&bg_color=080c12&color=c9d3dd&line=34e39b&point=38d6ff&area=true&area_color=34e39b&hide_border=true" alt="Contribution activity graph">
+  <img src="https://streak-stats.demolab.com?user=gottostartsomewhere&hide_border=true&background=0d1117&stroke=21262d&ring=c8a24a&fire=a80c17&currStreakLabel=c8a24a&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Contribution streak">
 </p>
 
-<img src="./assets/footer.svg" width="100%" alt="risk controls: balances reconcile, retries are idempotent, and the webhook always fires.">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gottostartsomewhere&bg_color=0d1117&color=c8a24a&line=c8a24a&point=f2efe6&area=true&area_color=c8a24a&hide_border=true" alt="Contribution activity graph">
+</p>
+
+---
+
+<p align="center"><sub>house rules: balances reconcile, retries are idempotent, and the webhook always fires.</sub></p>
