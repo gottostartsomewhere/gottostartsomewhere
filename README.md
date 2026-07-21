@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm John Kevin</h2>
 
 <p align="center">
-  Final-year CS at <b>VIT Chennai</b> and on the founding team at <b>WiseFolio</b>, an early-stage fintech,<br/> building the data and payment layers behind an equities investing platform.<br/> Currently Invested in the Finance Open source ecosystem.
+  Final-year CS at <b>VIT Chennai</b> and on the founding team at <b>Prospire Network, Building WiseFolio</b>, an early-stage fintech,<br/> building the data and payment layers behind an equities investing platform.<br/> Currently Invested in the Finance Open source ecosystem.
 </p>
 
 <!-- Tech Stack -->
