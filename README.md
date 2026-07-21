@@ -1,9 +1,7 @@
 <h2 align="center">Hey, I'm John Kevin</h2>
 
 <p align="center">
-  Final-year CS at <b>VIT Chennai</b> and on the founding team at <b>WiseFolio</b>, an early-stage fintech,<br/>
-  building the data and payment layers behind an equities investing platform.<br/>
-  Most of what is left of my week goes to open source in the Python finance ecosystem.
+  Final-year CS at <b>VIT Chennai</b> and on the founding team at <b>WiseFolio</b>, an early-stage fintech,<br/> building the data and payment layers behind an equities investing platform.<br/>  Most of what is left of my week goes to open source in the Python finance ecosystem.
 </p>
 
 <!-- Tech Stack -->
