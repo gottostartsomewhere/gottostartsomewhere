@@ -27,69 +27,19 @@
   <sub>Contributions to the finance and data libraries I actually build on.</sub>
 </p>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Contribution</th>
-      <th align="center">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/OpenBB-finance/OpenBB/pull/7591"><b>OpenBB</b></a><br/>
-        <img src="https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&color=00BFFF&labelColor=0d1117&logo=github&logoColor=white" alt="OpenBB stars" />
-      </td>
-      <td>
-        NSE market-data extension <code>obb.nse.*</code><br/>
-        <sub>Built alongside the core maintainers</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/In_Review-FFA500?style=flat-square&labelColor=0d1117" alt="In review" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ranaroussi/yfinance/pull/2780"><b>yfinance</b></a><br/>
-        <img src="https://img.shields.io/github/stars/ranaroussi/yfinance?style=flat-square&color=00BFFF&labelColor=0d1117&logo=github&logoColor=white" alt="yfinance stars" />
-      </td>
-      <td>
-        Interval handling fixes<br/>
-        <sub>Correcting resampling behaviour across intervals</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Merged-8957E5?style=flat-square&labelColor=0d1117" alt="Merged" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/dgunning/edgartools/pull/899"><b>edgartools</b></a><br/>
-        <img src="https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&color=00BFFF&labelColor=0d1117&logo=github&logoColor=white" alt="edgartools stars" />
-      </td>
-      <td>
-        S-3 filing section extraction<br/>
-        <sub>Parsing shelf registrations in the SEC EDGAR library</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Merged-8957E5?style=flat-square&labelColor=0d1117" alt="Merged" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/supabase/supabase-py/pull/1530"><b>supabase-py</b></a><br/>
-        <img src="https://img.shields.io/github/stars/supabase/supabase-py?style=flat-square&color=00BFFF&labelColor=0d1117&logo=github&logoColor=white" alt="supabase-py stars" />
-      </td>
-      <td>
-        PostgREST array filter type coercion<br/>
-        <sub>Fixing silently wrong query results on typed arrays</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Merged-8957E5?style=flat-square&labelColor=0d1117" alt="Merged" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/oss-dark.svg" />
+  <img src="./assets/oss-light.svg" width="100%" alt="OpenBB-finance/OpenBB, NSE market-data extension, in review. ranaroussi/yfinance, interval handling fixes, merged. dgunning/edgartools, S-3 filing section extraction, merged. supabase/supabase-py, PostgREST array filter coercion, merged." />
+</picture>
+
+<p align="center">
+  <sub>
+    <a href="https://github.com/OpenBB-finance/OpenBB/pull/7591">OpenBB #7591</a> ·
+    <a href="https://github.com/ranaroussi/yfinance/pull/2780">yfinance #2780</a> ·
+    <a href="https://github.com/dgunning/edgartools/pull/899">edgartools #899</a> ·
+    <a href="https://github.com/supabase/supabase-py/pull/1530">supabase-py #1530</a>
+  </sub>
+</p>
 
 <!-- Stats -->
 <h2 align="center">GitHub Stats</h2>
@@ -115,9 +65,4 @@
   <a href="https://github.com/gottostartsomewhere?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Browse-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-</p>
-
-<!-- Decorative Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
