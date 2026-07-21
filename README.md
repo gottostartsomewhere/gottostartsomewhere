@@ -21,9 +21,6 @@
 <!-- Open Source -->
 <h2 align="center">Open Source</h2>
 
-<p align="center">
-  <sub>Contributions to the finance and data libraries I actually build on.</sub>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/oss-dark.svg" />
