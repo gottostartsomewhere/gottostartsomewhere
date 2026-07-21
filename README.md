@@ -56,13 +56,9 @@
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:johnkevin0742@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/johnkevindev">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/gottostartsomewhere?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Browse-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
+  <a href="mailto:johnkevin0742@gmail.com"><kbd>&nbsp;&nbsp;&nbsp;johnkevin0742@gmail.com&nbsp;&nbsp;&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/johnkevindev"><kbd>&nbsp;&nbsp;&nbsp;in/johnkevindev&nbsp;&nbsp;&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://github.com/gottostartsomewhere?tab=repositories"><kbd>&nbsp;&nbsp;&nbsp;All repositories&nbsp;&nbsp;&nbsp;</kbd></a>
 </p>
