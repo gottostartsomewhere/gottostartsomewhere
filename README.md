@@ -1,26 +1,4 @@
-<h1 align="center">John Kevin</h1>
-
-<p align="center">
-  Backend &amp; Fintech Engineer · Chennai<br/>
-  <sub>Payments, ledgers, and market-data tooling</sub>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gottostartsomewhere&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/gottostartsomewhere?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Browse-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories Badge" />
-  </a>
-  <a href="mailto:johnkevin0742@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://linkedin.com/in/johnkevindev">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
-<!-- About -->
-<h2 align="center">About Me</h2>
+<h2 align="center">Hey, I'm John Kevin</h2>
 
 <p align="center">
   Final-year CS at <b>VIT Chennai</b> and on the founding team at <b>WiseFolio</b>, an early-stage fintech,<br/>
@@ -117,11 +95,6 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gottostartsomewhere&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&ring_color=00BFFF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gottostartsomewhere&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=gottostartsomewhere&hide_border=true&background=0d1117&stroke=21262d&ring=00BFFF&fire=FFA500&currStreakLabel=00BFFF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Contribution streak" />
 </p>
 
@@ -134,13 +107,13 @@
 
 <p align="center">
   <a href="mailto:johnkevin0742@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FFA500?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/johnkevindev">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/gottostartsomewhere?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Browse-00FFFF?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Browse-00FFFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
 
