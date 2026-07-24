@@ -37,15 +37,7 @@
 </p>
 
 <!-- Stats -->
-<h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gottostartsomewhere&hide_border=true&background=0d1117&stroke=21262d&ring=00BFFF&fire=FFA500&currStreakLabel=00BFFF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gottostartsomewhere&bg_color=0d1117&color=c9d1d9&line=00BFFF&point=FFA500&area=true&area_color=00BFFF&hide_border=true" alt="Contribution activity graph" />
-</p>
 
 <!-- Connect Section -->
 <h2 align="center">Connect With Me</h2>
